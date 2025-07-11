@@ -72,3 +72,8 @@ body {
 .hide {
   display: none;
 }
+.box:hover {
+    background-color: #e1dcd1;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
